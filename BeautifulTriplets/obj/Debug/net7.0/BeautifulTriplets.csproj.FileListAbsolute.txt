@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\bin\Debug\net7.0\BeautifulTriplets.exe
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\bin\Debug\net7.0\BeautifulTriplets.deps.json
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\bin\Debug\net7.0\BeautifulTriplets.runtimeconfig.json
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\bin\Debug\net7.0\BeautifulTriplets.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\bin\Debug\net7.0\BeautifulTriplets.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\refint\BeautifulTriplets.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\BeautifulTriplets.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\BeautifulTriplets\obj\Debug\net7.0\ref\BeautifulTriplets.dll
