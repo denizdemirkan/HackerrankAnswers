@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kaprekar_Number_Solve/1.0.0": {
+        "runtime": {
+          "Kaprekar_Number_Solve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kaprekar_Number_Solve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

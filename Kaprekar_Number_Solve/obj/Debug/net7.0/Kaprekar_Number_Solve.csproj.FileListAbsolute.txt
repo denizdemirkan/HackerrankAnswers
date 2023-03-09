@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\bin\Debug\net7.0\Kaprekar_Number_Solve.exe
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\bin\Debug\net7.0\Kaprekar_Number_Solve.deps.json
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\bin\Debug\net7.0\Kaprekar_Number_Solve.runtimeconfig.json
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\bin\Debug\net7.0\Kaprekar_Number_Solve.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\bin\Debug\net7.0\Kaprekar_Number_Solve.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\refint\Kaprekar_Number_Solve.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\Kaprekar_Number_Solve.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Kaprekar_Number_Solve\obj\Debug\net7.0\ref\Kaprekar_Number_Solve.dll

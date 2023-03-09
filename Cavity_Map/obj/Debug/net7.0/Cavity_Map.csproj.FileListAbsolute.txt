@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\bin\Debug\net7.0\Cavity_Map.exe
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\bin\Debug\net7.0\Cavity_Map.deps.json
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\bin\Debug\net7.0\Cavity_Map.runtimeconfig.json
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\bin\Debug\net7.0\Cavity_Map.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\bin\Debug\net7.0\Cavity_Map.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\refint\Cavity_Map.dll
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.pdb
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\Cavity_Map.genruntimeconfig.cache
+C:\Users\deniz\OneDrive\Masaüstü\Repository\Hackerrank\Cavity_Map\obj\Debug\net7.0\ref\Cavity_Map.dll

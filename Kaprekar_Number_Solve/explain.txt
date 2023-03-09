@@ -1,0 +1,6 @@
+abc
+
+abc^2 = qwert
+
+if qwe + rt = abc
+	abc is kaprekar

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cavity_Map/1.0.0": {
+        "runtime": {
+          "Cavity_Map.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cavity_Map/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
